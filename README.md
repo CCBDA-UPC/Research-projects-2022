@@ -45,7 +45,7 @@ Once all tutorials evaluated, they will be included in this repository to make t
 
 **Grade**:
 - tutorial documentation
-- presentation explanations
+- presentation *(use a PDF that can be attached in the repo)* and explanations 
 - feedback offered by the two teams following the tutorial
 
 ## Tutorials
@@ -69,6 +69,7 @@ NOTE: please update the file `"/research/authors.json"`  as stated above.
 
 - For the tutorial documentation presentation May 9th 2022
 - For the tutorial evaluation and feedback May 16th 2022
+- In Class presentation of each topic May 17th 2022
 
 
 
