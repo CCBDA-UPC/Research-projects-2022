@@ -23,6 +23,8 @@ Groups of two people need to create a folder in their project repo named "resear
 
 The **two remaining** team members will be assigned the two tutorials elaborated by the other teams. They will need to follow the tutorial and submit evidence of their job in `"/research/response1/README.md"` and `"/research/response2/README.md"` including **feedback for the authors** and **their grade** on how well elaborated and interesting they find it.
 
+Since each team will only be able to experiment with two assigments the day of the presentation each team will be explaining their topic to the whole class.
+
 Add a file `"/research/authors.json"` 
 
 ```json5
@@ -38,8 +40,13 @@ Add a file `"/research/authors.json"`
 }
 ```
 
-The teacher will evaluate the tutorials based on his criteria and the feedback offered by the groups of 2 students evaluating.
+The teacher will evaluate the tutorials based on the documentation, presentation and the feedback offered by the groups of 2 students evaluating.
 Once all tutorials evaluated, they will be included in this repository to make them available for everyone.
+
+**Grade**:
+- tutorial documentation
+- presentation explanations
+- feedback offered by the two teams following the tutorial
 
 ## Tutorials
 
@@ -47,11 +54,14 @@ Once all tutorials evaluated, they will be included in this repository to make t
 
 ### Assignment
 
-| Team | Assignment 1 | Assignment 2 |
-|:------|:-------------:|:-------------:|
-| Tue. 8:00|  |   |
-| Tue. 8:40|  |  |
-| Tue. 9:20|  |  |
+| Team      | Presentation | Assignment 1 | Assignment 2 |
+|:----------|:------------:|:-------------:|:------------:|
+| Tue. 8:00 |              |  |  |
+| Tue. 8:20 |              |  |  |
+| Tue. 8:40 |              |  |  |
+| Tue. 9:00 |              |  |  |
+| Tue. 9:20 |              |  |  |
+| Tue. 9:40 |              |  |  |
 
 NOTE: please update the file `"/research/authors.json"`  as stated above.
 
