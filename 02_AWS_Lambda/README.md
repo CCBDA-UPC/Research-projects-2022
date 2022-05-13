@@ -185,7 +185,7 @@ import json
 import requests
 
 def sample_classify_text(text_content):
-    google_cloud_key = 'AIzaSyDbdo62MbGPxOwexuqZN3RLvaGUJyMqbtY'
+    google_cloud_key = 'AIzaSyDbdo.....vaGUJyMqbtY'
     url = f'https://language.googleapis.com/v1/documents:classifyText?key={google_cloud_key}'
     data = { 
        "document": {
