@@ -56,12 +56,12 @@ Once all tutorials evaluated, they will be included in this repository to make t
 
 | Team      |    Presentation    | Assignment 1 | Assignment 2 |
 |:----------|:------------------:|:------------:|:------------:|
-| Tue. 8:00 | AWS CloudFormation |      02      |  |
-| Tue. 8:20 |     AWS Lambda     |      01      |  |
-| Tue. 8:40 |                    |              |  |
-| Tue. 9:00 |                    |              |  |
-| Tue. 9:20 |                    |              |  |
-| Tue. 9:40 |                    |              |  |
+| Tue. 8:00 | AWS CloudFormation |      02      |      03      |
+| Tue. 8:20 |     AWS Lambda     |      01      |      03      |
+| Tue. 8:40 |       CI/CD        |      01      |      02      |
+| Tue. 9:00 |                    |              |              |
+| Tue. 9:20 |                    |              |              |
+| Tue. 9:40 |                    |              |              |
 
 NOTE: please update the file `"/research/authors.json"`  as stated above.
 
