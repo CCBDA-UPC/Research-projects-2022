@@ -53,10 +53,10 @@ Once all tutorials evaluated, they will be included in this repository to make t
 
 | Team      |                  Presentation                  | Assignment 1 | Assignment 2 |
 |:----------|:----------------------------------------------:|:------------:|:------------:|
-| Tue. 8:00 | [AWS CloudFormation](./01_AWS_CloudFormation/) |      [AWS Lambda](./02_AWS_Lambda/)       |      03      |
+| Tue. 8:00 | [AWS CloudFormation](./01_AWS_CloudFormation/) |      [AWS Lambda](./02_AWS_Lambda/)       |      [CI/CD](./03_CICD/)      |
 | Tue. 8:20 |         [AWS Lambda](./02_AWS_Lambda/)         |      [AWS CloudFormation](./01_AWS_CloudFormation/)      |      [CI/CD](./03_CICD/)      |
 | Tue. 8:40 |              [CI/CD](./03_CICD/)               |      [AWS CloudFormation](./01_AWS_CloudFormation/)      |      [AWS Lambda](./02_AWS_Lambda/)       |
-| Tue. 9:00 |                                                |         [CI/CD](./03_CICD/)     |              |
+| Tue. 9:00 |                                                |              |              |
 | Tue. 9:20 |                                                |              |              |
 | Tue. 9:40 |                                                |              |              |
 
