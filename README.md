@@ -68,8 +68,8 @@ NOTE: please update the file `"/research/authors.json"`  as stated above.
 ## Deadlines
 
 - For the tutorial documentation presentation May 9th 2022
-- For the tutorial evaluation and feedback May 16th 2022
 - In Class presentation of each topic May 17th 2022
+- For the tutorial evaluation and feedback May 23th 2022
 
 
 
