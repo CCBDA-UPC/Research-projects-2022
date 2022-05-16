@@ -56,9 +56,9 @@ Once all tutorials evaluated, they will be included in this repository to make t
 | Tue. 8:00 | [AWS CloudFormation](./01_AWS_CloudFormation/) |      [AWS Lambda](./02_AWS_Lambda/)       |      [CI/CD](./03_CICD/)      |
 | Tue. 8:20 |         [AWS Lambda](./02_AWS_Lambda/)         |      [AWS CloudFormation](./01_AWS_CloudFormation/)      |      [CI/CD](./03_CICD/)      |
 | Tue. 8:40 |              [CI/CD](./03_CICD/)               |      [AWS CloudFormation](./01_AWS_CloudFormation/)      |      [AWS Lambda](./02_AWS_Lambda/)       |[Speech to Text](./05_SpeechText)
-| Tue. 9:00 |             [AutoML](./04_AutoML/)             |         [Speech to Text](./05_SpeechText)     |              |
-| Tue. 9:20 |       [Speech to Text](./05_SpeechText)        |         [AWS Lambda](./02_AWS_Lambda/)      |              |
-| Tue. 9:40 |                                                |              |              |
+| Tue. 9:00 |             [AutoML](./04_AutoML/)             |         [Speech to Text](./05_SpeechText)     |        [Google Storage](./06_GoogleStorage/)      |
+| Tue. 9:20 |       [Speech to Text](./05_SpeechText)        |         [AWS Lambda](./02_AWS_Lambda/)      |        [Google Storage](./06_GoogleStorage/)      |
+| Tue. 9:40 |     [Google Storage](./06_GoogleStorage/)      |       [Speech to Text](./05_SpeechText)        |       [AutoML](./04_AutoML/)       |
 
 NOTE: please update the file `"/research/authors.json"`  as stated above.
 
